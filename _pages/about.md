@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Kaixin Zheng (Corson)"
 description: "Welcome to Kaixin Zheng's homepage."
 author_profile: true
 hide_title: true
