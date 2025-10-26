@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Kaixin Zheng"
 title_separator          : "-"
-name                     : &name "Kaixin Zheng"
+name                     : &name "Kaixin Zheng (Corson)"
 description              : &description "Kaixin Zheng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://corsonzheng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,10 +23,10 @@ repository               : "corsonzheng/corsonzheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kaixin Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Looking for PhD position"
   location         : "China"
   employer         : "China Mobile Research Institute"
   uri              : # URL
