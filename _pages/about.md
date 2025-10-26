@@ -1,9 +1,9 @@
 ---
 permalink: /
-layout: splash
-title: "Kaixin Zheng (Corson) - Homepage"
+title: "Homepage"
 description: "Welcome to Kaixin Zheng's homepage."
 author_profile: true
+hide_title: true
 redirect_from: 
   - /about/
   - /about.html
